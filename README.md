@@ -1,16 +1,13 @@
-### Hi there 👋
+# Print("Hello, mana!") 🦝
 
-<!--
-**laizabsobral/laizabsobral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Laiza Benevides, sou criadora e produtora de conteúdo no Conecta Elas, onde compartilho todos os meus conhecimentos sobre Desenvolvimento Web para as manas que querem entrar nessa área.🥰 
 
-Here are some ideas to get you started:
+-  Siga o instagram:  [Conecta Elas](https://www.instagram.com/conecta_elas/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Encontre o Conecta Elas também:
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/channel/UCeciNXpaos_EauomHATsjpw) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/conecta_elas/) 
+
+
+
